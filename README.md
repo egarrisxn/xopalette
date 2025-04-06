@@ -10,19 +10,17 @@ This is an easy-to-use [Next.js](https://nextjs.org) color palette generator [Et
 
 ## **Technologies**
 
-This app leverages a modern tech stack for a smooth developer experience:
-
 - **Programming Language**: [TypeScript](https://www.typescriptlang.org/) – Ensures type safety and better maintainability.
 - **Framework**: [Next.js](https://nextjs.org/) – The leading React framework for hybrid static & server-side rendering.
 - **Deployment**: [Vercel](https://vercel.com) – Optimized for seamless, serverless deployment.
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS for rapid styling.
-- **Linting & Formatting**:
-  - [ESLint](https://eslint.org/) – Enforces code quality and best practices.
-  - [Prettier](https://prettier.io/) – Automatic code formatting for consistency.
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/) – A flexible, customizable UI component library.
 - **Animations**: [Motion](https://motion.dev) – Powerful animations with an intuitive API.
 - **Icons**: [lucide-react](https://lucide.dev/) – Crisp, open-source React icons.
 - **More**: TBD (Feel free to extend and customize based on your needs).
+- **Linting & Formatting**:
+  - [ESLint](https://eslint.org/) – Enforces code quality and best practices.
+  - [Prettier](https://prettier.io/) – Automatic code formatting for consistency.
 
 ## **Before You Begin**
 
@@ -91,13 +89,6 @@ For a seamless deployment experience, use the **Deploy** button below to launch 
 Note: You are not limited to Vercel and may deploy this app on any platform that supports Next.js. However, in my experience, Vercel provides the fastest and most convenient setup.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fegarrisxn%2Fxopalette)
-
-## **Learn More**
-
-To explore more about Next.js, check out these resources:
-
-- 📖 [Next.js Documentation](https://nextjs.org/docs) – Official docs covering features and best practices.
-- 🛠️ [Next.js GitHub](https://github.com/vercel/next.js) – Browse the source code and contribute.
 
 ## **License**
 

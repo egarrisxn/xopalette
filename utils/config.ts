@@ -3,7 +3,7 @@ import type { SiteConfig } from "./types";
 
 export const siteConfig: SiteConfig = {
   title: "XO Palette",
-  description: "Color Palette Generator.",
+  description: "A Color Palette Generator.",
   url: siteUrl,
   ogImage: `${siteUrl}/opengraph-image.png`,
   twitterImage: `${siteUrl}/twitter-image.png`,
