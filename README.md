@@ -6,7 +6,7 @@
 
 ## **Overview**
 
-This is an easy-to-use [Next.js](https://nextjs.org) color palette generator [Ethan G.](https://egxo.dev).
+This is an easy-to-use [Next.js](https://nextjs.org) color palette generator.
 
 ## **Technologies**
 
