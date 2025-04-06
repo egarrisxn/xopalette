@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/xopalette) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/xopalette)
 
+![xo-palette](https://github.com/user-attachments/assets/69fe60a9-9ab8-4976-8a01-888b06d8e2c3)
+
 ## **Overview**
 
 This is an easy-to-use [Next.js](https://nextjs.org) color palette generator [Ethan G.](https://egxo.dev).
