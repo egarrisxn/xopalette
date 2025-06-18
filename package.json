@@ -61,15 +61,12 @@
     "tsx": "^4.19.3",
     "typescript": "5.7.2"
   },
-  "prettier": {
-    "semi": true,
-    "tabWidth": 2,
-    "printWidth": 100,
-    "bracketSpacing": true,
-    "singleQuote": false,
-    "jsxSingleQuote": false,
-    "plugins": [
-      "prettier-plugin-tailwindcss"
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@tailwindcss/oxide",
+      "esbuild",
+      "sharp",
+      "unrs-resolver"
     ]
   }
 }

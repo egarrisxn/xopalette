@@ -27,11 +27,8 @@ export const metadata: Metadata = {
     "typescript",
     "javascript",
     "nextjs",
-    "next15",
-    "react",
     "react19",
     "tailwindCSS",
-    "tailwindv4",
     "shadcnui",
     "eslint",
     "vercel",
@@ -51,19 +48,6 @@ export const metadata: Metadata = {
     creator: siteConfig.socialHandle,
     site: siteConfig.socialHandle,
   },
-  appleWebApp: {
-    capable: true,
-    title: siteConfig.title,
-    startupImage: siteConfig.ogImage,
-    statusBarStyle: "black-translucent",
-  },
-  formatDetection: {
-    telephone: true,
-    date: true,
-    address: true,
-    email: true,
-    url: true,
-  },
 };
 
 export const viewport: Viewport = {
@@ -82,6 +66,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <meta name="apple-mobile-web-app-title" content={siteConfig.title} />
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <ThemeProvider
           attribute="class"
