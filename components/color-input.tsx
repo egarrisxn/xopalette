@@ -36,7 +36,7 @@ export default function ColorInput({
           e.currentTarget.blur();
         }
       }}
-      className="focus:ring-primary flex-1 rounded-lg border px-3 py-2 font-mono text-sm transition-all duration-200 focus:border-transparent focus:ring-2"
+      className="flex-1 rounded-lg border px-3 py-2 font-mono text-sm transition-all duration-200 focus:border-transparent focus:ring-2 focus:ring-primary"
       placeholder="#RRGGBB"
       initial={{ scale: 1 }}
       whileFocus={{ scale: 1.01 }}
